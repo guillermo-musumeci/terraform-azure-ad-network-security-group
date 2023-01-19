@@ -1,6 +1,8 @@
 # Create Network Security Groups (NSGs) for Active Directory in Azure with Terraform
 [![Terraform](https://img.shields.io/badge/terraform-v1.3+-blue.svg)](https://www.terraform.io/downloads.html)
 
+Blog --> https://gmusumeci.medium.com/how-to-configure-active-directory-network-security-groups-and-firewall-rules-in-azure-using-a08b59439033
+
 ## How to use this code:
 
 * Update **dns_servers** variable = Your existing or new Active Directory DNS servers
