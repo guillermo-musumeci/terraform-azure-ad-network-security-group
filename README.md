@@ -5,7 +5,7 @@
 
 * Update **dns_servers** variable = Your existing or new Active Directory DNS servers
 * Update **dc_servers** variable = Your cloud Active Directory Domain Controller servers
-* Update **ad_resource_group** data variable to point the Resource Group where we want to create the NSGs
+* Update **ad_resource_group** data variable to point to the Resource Group where we want to create the NSGs
 
 ## Terraform files
 
